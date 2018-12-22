@@ -1,0 +1,27 @@
+body {
+	background-color:#2a2a2a;
+}
+	
+#reset {
+	width: 100px;
+	height: 50px;
+	border:solid 5px rgb(158, 90, 147);
+	background-color:#c49292;
+	color: rgb(29, 110, 134);
+	margin-bottom: 20px;
+}
+	
+
+ td {
+	border:solid 1px gray;
+	text-align:center;
+	font-size:40px;
+	font-family:Times New Roman;
+	color: rgb(218, 160, 35);
+	width: 55px;
+	height: 55px;
+}
+ td:hover {
+	color:white;
+	cursor: hand;
+}
