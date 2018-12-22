@@ -1,1 +1,0 @@
-# Struk.github.io
